@@ -6,6 +6,6 @@ import tensorflow as tf
 import os
 
 os.environ['TF_CPP_MIN_LOG_LEVEL'] = '2'
-hello = tf.constant('12222221a1')
+hello = tf.constant('66666666666')
 sess = tf.Session()
 print(sess.run(hello))
